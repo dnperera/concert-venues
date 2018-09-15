@@ -7,7 +7,7 @@ const Carousel = () => {
   const settings = {
     dots: false,
     infinite: true,
-    speed: 500,
+    speed: 800,
     autoplay: true
   };
   return (
