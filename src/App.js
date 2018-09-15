@@ -4,6 +4,7 @@ import Header from "./component/header/Header";
 import Featured from "./component/featured";
 import VenueInfo from "./component/venueInfo";
 import Highlights from "./component/highlights";
+import Pricing from "./component/pricing";
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
         <Featured />
         <VenueInfo />
         <Highlights />
+        <Pricing />
       </div>
     );
   }
