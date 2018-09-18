@@ -3,7 +3,7 @@ import Fade from "react-reveal/Fade";
 
 const Footer = () => {
   return (
-    <footer className="bck_red">
+    <footer className="bck_black">
       <Fade delay={800}>
         <div className="font_righteous footer_logo_venue">
           {" "}
@@ -11,6 +11,7 @@ const Footer = () => {
         </div>
         <div className="footer_copyright">
           The Conserts all rights reserved.
+          <span> {new Date().getFullYear()}</span>
         </div>
       </Fade>
     </footer>

@@ -51,6 +51,12 @@ header .header_logo_title {
   text-transform: uppercase;
 }
 
+.nav_icon {
+  color: "green";
+  padding: "10px";
+  font-size: "20px";
+}
+
 /*====================
         FOOTER
 ======================*/
