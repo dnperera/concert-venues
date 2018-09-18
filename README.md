@@ -1,3 +1,24 @@
+# The Concert Venues:
+
+This page template is for music concert or anyother events Which was designed using React JS. 
+
+### [Click here to view the page ](http://powerful-loss.surge.sh/)
+
+## Motivation :
+
+To understand & implement React Material UI components,React Reveal .
+
+## Technology,Frameworks & APIs Used:
+
+React,React Material UI, React Reveal,
+Google Map API
+
+### React Components Overview
+
+![Screen view of current items](readme-images/redux-weather-app-components.jpg)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
